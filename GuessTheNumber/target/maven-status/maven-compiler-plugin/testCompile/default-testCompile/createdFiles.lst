@@ -1,0 +1,3 @@
+com/sg/guessthenumber/service/GuessNumberServiceTest.class
+com/sg/guessthenumber/daos/GuessNumberDaoGameDBTest.class
+com/sg/guessthenumber/daos/GuessNumberDaoRoundDBTest.class
